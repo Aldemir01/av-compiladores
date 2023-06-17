@@ -13,3 +13,5 @@ ALUNO: Aldemir Romário Monteiro dos Santos / MATRÍCULA: 01390987
 3 - iniciar o programa usando o comando -> node compilador
 
 4 - o resultado aparecerá no proprio terminal
+
+O arquivo JS resolve corretamente a questao ( B ) da lista de exercícios sobre greibach. código todo comentado para melhor entendimento.
