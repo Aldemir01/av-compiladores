@@ -65,4 +65,4 @@ fng = transformar_glc_para_fng(glc)
 print("\nGramática resultante na Forma Normal de Greibach (FNG):")
 for nao_terminal in fng:
     for producao in fng[nao_terminal]:
-        print(nao_terminal, "->", producao)
+        print(nao_terminal, "->", producao) 
